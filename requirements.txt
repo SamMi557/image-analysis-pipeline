@@ -1,0 +1,10 @@
+PIL
+fer
+git+https://github.com/openai/CLIP.git
+google
+insightface
+matplotlib
+mediapipe
+numpy
+opencv-python
+torch
